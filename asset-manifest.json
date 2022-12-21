@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c1e544d5.css",
+    "main.js": "./static/js/main.1415e0db.js",
+    "static/media/whitePaper.pdf": "./static/media/whitePaper.55d7e688be04a3a09c4f.pdf",
+    "static/media/RoadMap.pdf": "./static/media/RoadMap.0e045c90ae9a2b223f0c.pdf",
+    "static/media/disclaimer-bg.png": "./static/media/disclaimer-bg.0a4efdf4c5f90de5184a.png",
+    "static/media/coin.png": "./static/media/coin.124cdf314313dcbe5b31.png",
+    "static/media/feedback-bg.png": "./static/media/feedback-bg.0665491a8e968b35d6e5.png",
+    "static/media/cover-bg.jpg": "./static/media/cover-bg.2b116a66073d062ebc8c.jpg",
+    "static/media/coin-game-img.png": "./static/media/coin-game-img.78bd6a9a4dc8b58cbecf.png",
+    "static/media/about-bg.png": "./static/media/about-bg.1d7fe93953719d074b33.png",
+    "static/media/after-buy-img.png": "./static/media/after-buy-img.8c8e951f035e1e97426a.png",
+    "static/media/diagram.png": "./static/media/diagram.2b69cb2fdc55c60dbb98.png",
+    "static/media/how-buy-img.png": "./static/media/how-buy-img.fe9f1a30fff8365c6528.png",
+    "static/media/mobile-diagram.png": "./static/media/mobile-diagram.cb24a87c125f343f73e9.png",
+    "index.html": "./index.html",
+    "main.c1e544d5.css.map": "./static/css/main.c1e544d5.css.map",
+    "main.1415e0db.js.map": "./static/js/main.1415e0db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e544d5.css",
+    "static/js/main.1415e0db.js"
+  ]
+}
